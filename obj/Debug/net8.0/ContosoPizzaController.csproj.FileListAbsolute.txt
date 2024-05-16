@@ -30,3 +30,4 @@
 /Users/kevincastro/Desktop/Programs/ContosoPizzaController/obj/Debug/net8.0/ContosoPizzaController.pdb
 /Users/kevincastro/Desktop/Programs/ContosoPizzaController/obj/Debug/net8.0/ContosoPizzaController.genruntimeconfig.cache
 /Users/kevincastro/Desktop/Programs/ContosoPizzaController/obj/Debug/net8.0/ref/ContosoPizzaController.dll
+/Users/kevincastro/Desktop/Programs/ContosoPizzaController/obj/Debug/net8.0/ContosoPizzaController.sourcelink.json
